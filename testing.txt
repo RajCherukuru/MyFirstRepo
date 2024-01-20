@@ -2,3 +2,4 @@
 
 
 this is the my new doc that i want to send it to git.  letss see how does this respond
+makding changes to the new file
